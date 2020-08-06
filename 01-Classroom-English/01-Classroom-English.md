@@ -1,6 +1,6 @@
 # Classroom English?
 
-Quando estamos estudando e/ou ensinando inglês, nos deparamos com algums comandos que facilitam nosso processo de aprendizagem. Esses comandos são utilizados para evitar o contato com a linguagem nativa dos alunos e auxiliar na evolução mais rápida do conforto com o inglês. Esses são os chamados "Classroom English", o Inglês de Sala de Aula. Mas será que ele se mantém só na sala de aula?
+Quando estamos estudando e/ou ensinando inglês, nos deparamos com alguns comandos que facilitam nosso processo de aprendizagem. Esses comandos são utilizados para evitar o contato com a linguagem nativa dos alunos e auxiliar na evolução mais rápida do conforto com o inglês. Esses são os chamados "Classroom English", o Inglês de Sala de Aula. Mas será que ele se mantém só na sala de aula?
 
 Nesse capítulo vamos passar por exemplos de Classroom English e como utilizá-los no nosso dia-a-dia. 
 
