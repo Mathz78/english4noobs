@@ -15,6 +15,11 @@ Queremos evitar o uso do nosso queridíssmo Português, certo? Como não podemos
     Júlia: "It's J-U-L-I-A."
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/699/779/non_2x/spelling-word-scramble-vector.jpg" alt="Soletrando a palavra books" width="300" height="200">
+
+
+     - How do you spell "something".
+     - It's S-O-M-E-T-H-I-N-G.
+
         
  - What does {word} means?
 
@@ -23,6 +28,11 @@ Queremos evitar o uso do nosso queridíssmo Português, certo? Como não podemos
     Júlia: "It's a person who is new at something and is learning."
 
 <img src="https://previews.123rf.com/images/artursz/artursz1809/artursz180917854/108645772-writing-note-showing-what-does-it-mean-question-business-photo-showcasing-give-me-the-meaning-of-som.jpg" alt="Perguntando o que significa a palavra raccoon dog" width="300" height="200">
+
+
+    - What does "dog" means?
+    - It's a domesticated animal.
+
 
 - Could you help me, please?
 
