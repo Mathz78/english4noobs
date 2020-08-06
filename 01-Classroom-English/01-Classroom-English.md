@@ -6,19 +6,41 @@ Nesse capítulo vamos passar por exemplos de Classroom English e como utilizá-l
 
 # Exemplos
 
+Queremos evitar o uso do nosso queridíssmo Português, certo? Como não podemos fazer mímica, a tentativa aqui será de representar com exemplos e alguma imagem.
+
 - How do you spell {word}?
+
+    You: "Hey, Júlia! How do you spell your name?"
+    
+    Júlia: "It's J-U-L-I-A."
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/699/779/non_2x/spelling-word-scramble-vector.jpg" alt="Soletrando a palavra books" width="300" height="200">
         
  - What does {word} means?
 
+    You: "Júlia, what is the meaning of noob?"
+
+    Júlia: "It's a person who is new at something and is learning."
+
 <img src="https://previews.123rf.com/images/artursz/artursz1809/artursz180917854/108645772-writing-note-showing-what-does-it-mean-question-business-photo-showcasing-give-me-the-meaning-of-som.jpg" alt="Perguntando o que significa a palavra raccoon dog" width="300" height="200">
 
 - Could you help me, please?
 
+    You: "What is He4rt?"
+
+    Júlia: "It's our community on discord."
+
+    You: "I want to join. Could you help me, please?"
+
+    Júlia: "Of course. How can I help?"
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTfbC8wiCspt4B5eJ1RoklOXesWk9rVGUR8w&usqp=CAU" alt="Coyote pedindo ajuda" width="300" height="200">
 
 - I'm sorry, I don't understand.
+
+    You: "I'm sorry, I don't understand. What is Discord?"
+
+    Júlia: "It's like whatsapp." 
 
 <img src="https://media1.tenor.com/images/838380c93482db5666c903494b1f3229/tenor.gif?itemid=3528796" alt="Duas pessoas afirmando que não entendem" width="300" height="200">
     
