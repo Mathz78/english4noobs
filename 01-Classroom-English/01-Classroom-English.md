@@ -10,49 +10,49 @@ Queremos evitar o uso do nosso queridíssmo Português, certo? Como não podemos
 
 - How do you spell {word}?
 
-    You: "Hey, Júlia! How do you spell your name?"
-    
-    Júlia: "It's J-U-L-I-A."
-
 <img src="https://static.vecteezy.com/system/resources/previews/000/699/779/non_2x/spelling-word-scramble-vector.jpg" alt="Soletrando a palavra books" width="300" height="200">
 
+    Example 1:
+    -You: "Hey, Júlia! How do you spell your name?"
+    -Júlia: "It's J-U-L-I-A."
 
-     - How do you spell "something".
-     - It's S-O-M-E-T-H-I-N-G.
+    Example 2:
+    - How do you spell "something".
+    - It's S-O-M-E-T-H-I-N-G.
 
         
  - What does {word} means?
 
-    You: "Júlia, what is the meaning of noob?"
-
-    Júlia: "It's a person who is new at something and is learning."
-
 <img src="https://previews.123rf.com/images/artursz/artursz1809/artursz180917854/108645772-writing-note-showing-what-does-it-mean-question-business-photo-showcasing-give-me-the-meaning-of-som.jpg" alt="Perguntando o que significa a palavra raccoon dog" width="300" height="200">
 
+    Example 1:
+    -You: "Júlia, what does "noob" means?"
+    -Júlia: "It's a person who is new at something and is learning."
 
+    Example 2:
     - What does "dog" means?
     - It's a domesticated animal.
 
 
 - Could you help me, please?
 
-    You: "What is He4rt?"
-
-    Júlia: "It's our community on discord."
-
-    You: "I want to join. Could you help me, please?"
-
-    Júlia: "Of course. How can I help?"
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTfbC8wiCspt4B5eJ1RoklOXesWk9rVGUR8w&usqp=CAU" alt="Coyote pedindo ajuda" width="300" height="200">
 
+    Example 1:
+    -You: "What is He4rt?"
+    -Júlia: "It's our community on discord."
+    -You: "I want to join. Could you help me, please?"
+    -Júlia: "Of course. How can I help?"
+
 - I'm sorry, I don't understand.
 
-    You: "I'm sorry, I don't understand. What is Discord?"
-
-    Júlia: "It's like whatsapp." 
 
 <img src="https://media1.tenor.com/images/838380c93482db5666c903494b1f3229/tenor.gif?itemid=3528796" alt="Duas pessoas afirmando que não entendem" width="300" height="200">
+    
+    Example 1:
+    You: "I'm sorry, I don't understand. What is Discord?"
+    Júlia: "It's like whatsapp." 
     
 # In use
 
