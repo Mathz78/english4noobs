@@ -63,4 +63,14 @@ Queremos evitar o uso do nosso queridíssmo Português, certo? Como não podemos
     You: "I'm sorry, I don't understand. Could you speak more slowly, please?"
     Júlia: "Sure. It's J-U-L-I-A."
 
+# Vocabulary
+
+No final de cada tópico iremos colocar a tradução de algumas palavras chaves para lhe ajudar neste início dos seus estudos de inglês.
+
+* Spell = Soletrar 
+* Means =  Significa
+* Something = Alguma coisa
+* Could = Poderia
+* Slowly = Lentamente
+
 # Roadmap
