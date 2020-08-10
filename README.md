@@ -42,3 +42,5 @@ são **extremamente apreciadas**
 ## Colaboradores
 
 **Júlia Botelho (MãeHe4rt)** - *He4rt's Mother* -  [@juhbotelho](https://twitter.com/juhbotelho) - Email - *juhbotelho.contato@gmail.com*
+
+**Matheus Rocha (Mathz78)** -  *Matheus "Mathz78" Rocha* -  [@Mathz78](https://twitter.com/Mathz78) - Email - *matheusrocha7802@gmail.com*
